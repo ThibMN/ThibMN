@@ -1,4 +1,4 @@
-<h1 align="left">Hi ! 👋 My name is Thibaud and I'm a student at Coda School, from Orléans, France.</h1>
+<h1 align="left">Hi ! 👋 My name is Thibaud and I'm a Developer at Inflate.review.</h1>
 
 ###
 
